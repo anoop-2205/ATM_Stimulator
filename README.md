@@ -1,1 +1,2 @@
-# ATM_Stimulator
+# This C++ program simulates a basic ATM system that allows a user to create an account, check balance, deposit or withdraw money, and cancel the transaction.
+ The program uses a class called Bank to store the user's data and perform transactions. and It uses basic operations like input/output, conditional statements, and loops. This project showcases my understanding of object-oriented programming concepts and problem-solving skills.
